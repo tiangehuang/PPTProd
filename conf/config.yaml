@@ -1,0 +1,15 @@
+#
+ppt:
+  list_table_path: ./清单.xlsx
+  image_prefix_path: ./照片
+  image_suffix: jpg
+  result_path: ./汇报.pptx
+  point_horizontal_pos: 0.5
+  point_vertical_pos: 0.5
+  title: "兰竹西路（昌盛路-龙坪路）项目"
+  width: 3.5
+  height: 4.7
+  space: 0.5
+  num_in_slide: 3
+  table_font_size: 14
+  table_font_style: SimSun
